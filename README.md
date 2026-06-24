@@ -1,4 +1,4 @@
-# mount.sh
+# img_mount.sh
 
 A tool for mounting and unmounting partitions from disk image files.
 
